@@ -12,3 +12,6 @@ height,
 title,
 subtitle,
 gradient (color1 and color2)
+
+
+![Screenshot (1)](https://user-images.githubusercontent.com/90719674/175764306-9f606ce7-4fb6-4355-9c9c-688011e3430f.png)
